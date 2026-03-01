@@ -1,6 +1,6 @@
 # Nexa Fork backend by @tw1nefr 
 #  What new?
-- New commands (User)
+# New commands (User)
 - /Balance (see your vbucks balance)
 - /Changer-password (change your account password)
 - /Changer-username (changer your account username every 2 days)
@@ -13,7 +13,7 @@
 - /Profile (display your profile like how many kills ect)
 - /Register (Make a account)
 - /Report (report in-game user they need a account)
-- New commands (Admin)
+# New commands (Admin)
 - /Admin-stats (display the admin-stats panel)
 - /ban (ban a in-game user or discord I think)
 - /ban-status (see a in-game banned user)
